@@ -16,6 +16,7 @@ The XGBoost script used to train, test and validate the LambdaMart Learning-to-R
 # How to Run
 The attached dataset and code were used to perform four ranking performance tests.  To reproduce, simply download the code (python ipynb file) and LTR dataset (txt file).  It was compliled using python 3 - the script will download any required packages.
 
+\# python3 ./lambdamart-xgboost.py
 
 # Acknowledgements
 Temporarily obscured pending double-blind journal submission.
